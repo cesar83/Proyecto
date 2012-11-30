@@ -1,11 +1,24 @@
-
 FACULTADAD DE CIENCIAS Y TEGNOLOGIA
 
 Lic. En Análisis de Sistemas
 
-En este trabajo se trata de utilizar la metodologia Scrum
+;******************************************************************************************
 
-INTRODUCCIÓN
+En este trabajo se trata de utilizar la metodologia Scrum y solo funcionara en Rad plus
+
+¿Que es RAD Plus?
+
+Es una Herramienta OpenSource que permite el Desarrollo Rápido de Aplicaciones comerciales la pagina oficial es www.ycube.net
+Creada por el Ing. Sergio Antonio Pohlmann en los inicios de la década de los 90 desde esa época hasta hoy día se ha venido desarrollando e incrementando su potencial.
+Basado en la idea de permitir a los programadores desarrollar sistemas de gestión con mayor facilidad y velocidad sin tener que preocuparse en cuanto a
+§ Funcionalidad: adecuacion, corrección interoperabilidad, seguridad,conformidad.
+§ Fiabilidad: madurez, tolerancia a fallos, recuperabilidad.
+§ Usabilidad: aprendibilidad, comprensionalidad, operabilidad, atractividad.
+§ Eficiencia: comportamiento temporal, utilización de recursos.
+§ Mantenibilidad: nalizabilidad, cambiabilidad, estabilidad, facilidad de prueba.
+§ Portabilidad: adaptabilidad, instalabilidad, coexistencia, remplazabilidad.
+
+;***********************************************************************************************+
 
 Actualmente los sistemas de stock se han convertido en una de las opciones de control  para los negocios. Se vio la necesidad de diseñar uno para el control adecuado de los distintos precios del  producto de una despensas y además para agilizar el trabajo al dueño.
 
