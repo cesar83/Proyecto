@@ -2,7 +2,7 @@
 /** sistemaTrabajo/table.bazar__.php   ( table_form )
  * 
  * @author     ycube RAD Plus ( automatically Generated ) 
- * 
+ * +
  */ 
 
 $Table->name  = "bazar";
