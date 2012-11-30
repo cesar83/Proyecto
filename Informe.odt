@@ -1,32 +1,29 @@
-UNIVERSIDAD AUTONOMA DE ENCARNACION
-FACULTADAD DE CIENCIAS Y TEGNOLOGIA
 
+FACULTADAD DE CIENCIAS Y TEGNOLOGIA
 
 Lic. En Análisis de Sistemas
 
-TITULO TENTATIVO
-
-SISTEMA STOCK  INFO
+En este trabajo se trata de utilizar la metodologia Scrum
 
 INTRODUCCIÓN
 
-Actualmente los sistemas de stock se han convertido en una de las opciones de control  para los negocios. Se vio la necesidad de diseñar uno para el control adecuado de los distintos precios del  producto de un quiosco y además para agilizar el trabajo al empleado.
+Actualmente los sistemas de stock se han convertido en una de las opciones de control  para los negocios. Se vio la necesidad de diseñar uno para el control adecuado de los distintos precios del  producto de una despensas y además para agilizar el trabajo al dueño.
 
 PLANTEAMIENTO DEL PROBLEMA
 
-Como resultado de un análisis realizado se ha podido identificar la necesidad de un sistema de stock que posibilite el control de los diferentes productos de un quiosco y la venta de los mismos.
-Este seria un aporte para el empleado, debido a los problemas que se presenta cundo tienen muchas gentes en el quiosco, este le facilitara  agilizar su atención al cliente y evitar que los mismos esperen su turno para su atención.
+Como resultado de un análisis realizado se ha podido identificar la necesidad de un sistema de stock que posibilite el control de los diferentes productos con que cuenta una despensa y la venta de los mismos.
+Este seria un aporte para todos los clientes y el dueño, debido a los problemas que se presenta cundo tienen muchas gentes en su despensa, este le facilitara  agilizar su atención al cliente y evitar que los mismos esperen su turno para su atención.
  
 JUSTIFICACIÓN
 
 El desarrollo de este proyecto permitirá al dueño:
-Un mejor control de su negocio. Utilizando estos para tener un control adecuado de los precios y la venta realizada en su quiosco.
- Con este proyecto se busca beneficiar directamente al dueño del quiosco y su empleado, ya que atreves de este obtendrán agilizar su trabajo. 
+Un mejor control de su negocio. Utilizando estos para tener un control adecuado de los precios y la venta realizada en su despensas.
+ Con este proyecto se busca beneficiar directamente a todo los clientes y el dueño, ya que atreves de este obtendrán agilidad en su trabajo. 
 La puesta en práctica de este proyecto permitirá al dueño tener una mayor agilidad en su atención a sus clientes. 
 
 OBJETIVO GENERAL
 
-Diseñar e implementar un sistema de stock para un quiosco para el manejo adecuado de los mismos.
+Diseñar e implementar un sistema de stock para una despensas para el manejo adecuado de los mismos.
 
 OBJETIVOS ESPECÍFICOS
 
