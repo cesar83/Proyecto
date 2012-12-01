@@ -1,3 +1,4 @@
+
 <?php
 $Obj->name = "Articulos";
 $Obj->alias = "Articulos";
@@ -196,6 +197,7 @@ $Obj->Add(
         G_CHANGE_ => "1"));
 
 ?>
+;***************************************
 
 <?php
 $Obj->name = "bazar";
@@ -282,7 +284,7 @@ $Obj->Add(
         G_CHANGE_ => "1"));
 
 ?>
-
+;***************************
 <?php
 $Obj->name = "detFactBaz";
 $Obj->alias = "Detalle Bazar";
@@ -373,6 +375,8 @@ $Obj->Add(
         G_CHANGE_ => "1"));
 
 ?>
+
+;***************************
 <?php
 $Obj->name = "det_Prov";
 $Obj->alias = "Detalle Proveedor";
@@ -453,7 +457,7 @@ $Obj->Add(
         G_CHANGE_ => "1"));
 
 ?>
-
+;***************************
 <?php
 $Obj->name = "DetVentFact";
 $Obj->alias = "Detalle  venta facturada";
@@ -670,7 +674,7 @@ $Obj->Add(
         G_CHANGE_ => "1"));
 
 ?>
-
+;***************************
 <?php
 $Obj->name = "proveedor";
 $Obj->alias = "Proveedor";
@@ -732,7 +736,7 @@ $Obj->Add(
         G_CHANGE_ => "1"));
 
 ?>
-
+;***************************
 <?php
 $Obj->name = "VentaFacturada";
 $Obj->alias = "Venta Facturada";
